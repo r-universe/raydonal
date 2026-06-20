@@ -5,3 +5,9 @@
 [submodule "logcumulant"]
 	path = logcumulant
 	url = https://github.com/raydonal/logcumulant
+[submodule "prLogistic"]
+	path = prLogistic
+	url = https://github.com/raydonal/prlogistic
+[submodule "simplexgof"]
+	path = simplexgof
+	url = https://github.com/raydonal/simplexgof
