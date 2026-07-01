@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "evbsreg"]
+	path = evbsreg
+	url = https://github.com/raydonal/evbsreg
 [submodule "logcumulant"]
 	path = logcumulant
 	url = https://github.com/raydonal/logcumulant
